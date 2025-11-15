@@ -15,7 +15,7 @@ Regular Expressions: Used for identifying keywords and patterns within the user 
 Clone the Repository
 Clone the repository:
 
-git clone https://github.com/abdelrahman-abozarifa04/simple-chatbot.git
+git clone https://github.com/Abdelrahman5ames
 Navigate to the project directory:
 
 cd simple-chatbot
